@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Kalpurush';
-  src: url('assets/font/Kalpurush.woff') format('woff2'),
-    url('assets/font/Kalpurush.woff2') format('woff');
+  src: url('../assets/font/Kalpurush.woff') format('woff2'),
+    url('../assets/font/Kalpurush.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
 }
